@@ -1,5 +1,4 @@
-# LittleLink Custom Storm Theme
-Find more themes: https://github.com/JulianPrieber/llc-themes
+# Storm LL Custom Storm Theme
                                                                                                                                                                          
 *	Theme Name: Storm
 *	Theme Version: 1.6
@@ -7,7 +6,7 @@ Find more themes: https://github.com/JulianPrieber/llc-themes
 *	Theme Author: StormLighting
 *	Theme Author URI: https://stormlighting.co.uk
 *	Theme License: GPLv3
-*	Source code: https://github.com/jeplx/stormltd-llct
+*	Source code: https://github.com/jeplx/storm-lltheme
 
 
 ### Used assets:
